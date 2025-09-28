@@ -1,6 +1,6 @@
 # Pixel Python
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/redeye1011/pixphy)
 
 A retro-themed, timed snake game with strategic power-ups and a high-score challenge.
 
@@ -79,4 +79,4 @@ This project is configured for seamless deployment to Cloudflare.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/redeye1011/pixphy)
